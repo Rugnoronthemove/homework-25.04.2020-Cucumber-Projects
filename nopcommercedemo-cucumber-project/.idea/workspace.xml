@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db3ca03e-70fc-4997-8fb0-04c087b006e1" name="Default Changelist" comment="" />
+    <list default="true" id="db3ca03e-70fc-4997-8fb0-04c087b006e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../expedia-cucumber-project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/CukeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/CukeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/stepdefs/FlightsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/stepdefs/FlightSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/stepdefs/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/stepdefs/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/resources/extentreport/extent-report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyzbank-cucumber-project/src/test/java/com/bank/cucumber/stepdefs/MyStepdefs.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1b4Y8ltX2sR7VOBjUbSpGSWu3yK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,7 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Clone Repositories/Jay/selenium-practice 2-Jay" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />

@@ -1,0 +1,88 @@
+2020-04-29 14:04:819 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:548 INFO  HomePage :44 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (6a81ae864c6f9de197bc1e572769eadf)] -> link text: Sign Up]
+2020-04-29 14:04:272 INFO  SignUpPage :40 -  Verify text: Sign Up to Let's Kode It is displayed on the sign up page [[ChromeDriver: chrome on WINDOWS (6a81ae864c6f9de197bc1e572769eadf)] -> xpath: //h1]
+2020-04-29 14:04:11 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:618 INFO  HomePage :44 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (4202757788a9acf329ef5e56971ebd34)] -> link text: Sign Up]
+2020-04-29 14:04:55 INFO  SignUpPage :46 - enter full name Prime Testingto the filed[[ChromeDriver: chrome on WINDOWS (4202757788a9acf329ef5e56971ebd34)] -> xpath: //input[@id='user_name']]
+2020-04-29 14:04:943 INFO  SignUpPage :59 -  Enter email: xyz5K@gmail.com to the field [[ChromeDriver: chrome on WINDOWS (4202757788a9acf329ef5e56971ebd34)] -> xpath: //input[@id='user_email']]
+2020-04-29 14:04:260 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (4202757788a9acf329ef5e56971ebd34)] -> xpath: //input[@id='user_password']]
+2020-04-29 14:04:478 INFO  SignUpPage :71 -  Enter confirm password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (4202757788a9acf329ef5e56971ebd34)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 14:04:869 INFO  SignUpPage :77 -  Select the checkbox for terms and condition [[ChromeDriver: chrome on WINDOWS (4202757788a9acf329ef5e56971ebd34)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 14:04:493 INFO  SignUpPage :83 -  Click on sign up button Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 14:04:204 INFO  MyAccountPage :26 - Verify text: <string> is displayed on my account page 
+2020-04-29 14:04:256 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:268 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (5da893c438be49025ec4d40def18d7c0)] -> link text: Login]
+2020-04-29 14:04:900 INFO  LoginPage :27 -  Enter email: xyz13@gmail.com to the filed [[ChromeDriver: chrome on WINDOWS (5da893c438be49025ec4d40def18d7c0)] -> xpath: //input[@id='user_email']]
+2020-04-29 14:04:286 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (5da893c438be49025ec4d40def18d7c0)] -> xpath: //input[@id='user_password']]
+2020-04-29 14:04:556 INFO  LoginPage :39 -  Clicking on Log in button [[ChromeDriver: chrome on WINDOWS (5da893c438be49025ec4d40def18d7c0)] -> xpath: //input[@name='commit']]
+2020-04-29 14:04:641 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:958 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (9f0896ddb482178c61cf1f8f1cc2aec8)] -> link text: Login]
+2020-04-29 14:04:861 INFO  LoginPage :27 -  Enter email: xyz13@gmail.com to the filed [[ChromeDriver: chrome on WINDOWS (9f0896ddb482178c61cf1f8f1cc2aec8)] -> xpath: //input[@id='user_email']]
+2020-04-29 14:04:80 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (9f0896ddb482178c61cf1f8f1cc2aec8)] -> xpath: //input[@id='user_password']]
+2020-04-29 14:04:831 INFO  LoginPage :39 -  Clicking on Log in button [[ChromeDriver: chrome on WINDOWS (9f0896ddb482178c61cf1f8f1cc2aec8)] -> xpath: //input[@name='commit']]
+2020-04-29 14:04:524 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:166 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (7a5d5c0fd853b4cb9a25bfce146d3e0d)] -> link text: Login]
+2020-04-29 14:04:358 INFO  LoginPage :27 -  Enter email: xyz13@gmail.com to the filed [[ChromeDriver: chrome on WINDOWS (7a5d5c0fd853b4cb9a25bfce146d3e0d)] -> xpath: //input[@id='user_email']]
+2020-04-29 14:04:544 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (7a5d5c0fd853b4cb9a25bfce146d3e0d)] -> xpath: //input[@id='user_password']]
+2020-04-29 14:04:905 INFO  LoginPage :39 -  Clicking on Log in button Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 14:04:169 INFO  MyAccountPage :26 - Verify text: My Courses is displayed on my account page 
+2020-04-29 14:04:85 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:594 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (176eb9f2bf70f92117b5f42f0aefe1ce)] -> link text: Login]
+2020-04-29 14:04:178 INFO  LoginPage :27 -  Enter email: xyz13@gmail.com to the filed [[ChromeDriver: chrome on WINDOWS (176eb9f2bf70f92117b5f42f0aefe1ce)] -> xpath: //input[@id='user_email']]
+2020-04-29 14:04:479 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (176eb9f2bf70f92117b5f42f0aefe1ce)] -> xpath: //input[@id='user_password']]
+2020-04-29 14:04:09 INFO  LoginPage :39 -  Clicking on Log in button Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 14:04:270 INFO  MyAccountPage :32 -  Click on the avatar image [[ChromeDriver: chrome on WINDOWS (176eb9f2bf70f92117b5f42f0aefe1ce)] -> xpath: //img[@class='gravatar']]
+2020-04-29 14:04:91 INFO  MyAccountPage :38 -  Click on logout Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log Out')]'
+2020-04-29 14:04:231 INFO  HomePage :38 -  Verify text: Login is displayed on home page [[ChromeDriver: chrome on WINDOWS (176eb9f2bf70f92117b5f42f0aefe1ce)] -> link text: Login]
+2020-04-29 14:04:86 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:722 INFO  HomePage :44 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (221c9a536c77a8da7e138175d96092bc)] -> link text: Sign Up]
+2020-04-29 14:04:849 INFO  SignUpPage :40 -  Verify text: Sign Up to Let's Kode It is displayed on the sign up page [[ChromeDriver: chrome on WINDOWS (221c9a536c77a8da7e138175d96092bc)] -> xpath: //h1]
+2020-04-29 14:04:713 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:886 INFO  HomePage :44 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (c04773e56ac40c78a980890ced723636)] -> link text: Sign Up]
+2020-04-29 14:04:945 INFO  SignUpPage :46 - enter full name Prime Testingto the filed[[ChromeDriver: chrome on WINDOWS (c04773e56ac40c78a980890ced723636)] -> xpath: //input[@id='user_name']]
+2020-04-29 14:04:229 INFO  SignUpPage :59 -  Enter email: xyzZO@gmail.com to the field [[ChromeDriver: chrome on WINDOWS (c04773e56ac40c78a980890ced723636)] -> xpath: //input[@id='user_email']]
+2020-04-29 14:04:401 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (c04773e56ac40c78a980890ced723636)] -> xpath: //input[@id='user_password']]
+2020-04-29 14:04:596 INFO  SignUpPage :71 -  Enter confirm password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (c04773e56ac40c78a980890ced723636)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 14:04:782 INFO  SignUpPage :77 -  Select the checkbox for terms and condition [[ChromeDriver: chrome on WINDOWS (c04773e56ac40c78a980890ced723636)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 14:04:641 INFO  SignUpPage :83 -  Click on sign up button Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 14:04:962 INFO  MyAccountPage :26 - Verify text: <string> is displayed on my account page 
+2020-04-29 14:04:475 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:546 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (e2012037b16229c939b7c0178c853088)] -> link text: Login]
+2020-04-29 14:04:209 INFO  LoginPage :27 -  Enter email: xyz13@gmail.com to the filed [[ChromeDriver: chrome on WINDOWS (e2012037b16229c939b7c0178c853088)] -> xpath: //input[@id='user_email']]
+2020-04-29 14:04:387 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (e2012037b16229c939b7c0178c853088)] -> xpath: //input[@id='user_password']]
+2020-04-29 14:04:554 INFO  LoginPage :39 -  Clicking on Log in button Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 14:04:666 INFO  MyAccountPage :26 - Verify text: My Courses is displayed on my account page 
+2020-04-29 14:04:393 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 14:04:530 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (04e90d14797244da8b45659b23b70a0c)] -> link text: Login]
+2020-04-29 14:04:367 INFO  LoginPage :27 -  Enter email: xyz13@gmail.com to the filed [[ChromeDriver: chrome on WINDOWS (04e90d14797244da8b45659b23b70a0c)] -> xpath: //input[@id='user_email']]
+2020-04-29 14:04:563 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (04e90d14797244da8b45659b23b70a0c)] -> xpath: //input[@id='user_password']]
+2020-04-29 14:04:528 INFO  LoginPage :39 -  Clicking on Log in button Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 14:04:658 INFO  MyAccountPage :32 -  Click on the avatar image [[ChromeDriver: chrome on WINDOWS (04e90d14797244da8b45659b23b70a0c)] -> xpath: //img[@class='gravatar']]
+2020-04-29 14:04:791 INFO  MyAccountPage :38 -  Click on logout Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log Out')]'
+2020-04-29 14:04:888 INFO  HomePage :38 -  Verify text: Login is displayed on home page [[ChromeDriver: chrome on WINDOWS (04e90d14797244da8b45659b23b70a0c)] -> link text: Login]
+2020-04-29 18:04:58 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 18:04:71 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (9356d5503b2dd3f6b76487776fc9c558)] -> link text: Login]
+2020-04-29 18:04:447 INFO  LoginPage :27 -  Enter email: xyz13@gmail.com to the filed [[ChromeDriver: chrome on WINDOWS (9356d5503b2dd3f6b76487776fc9c558)] -> xpath: //input[@id='user_email']]
+2020-04-29 18:04:666 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (9356d5503b2dd3f6b76487776fc9c558)] -> xpath: //input[@id='user_password']]
+2020-04-29 18:04:882 INFO  LoginPage :39 -  Clicking on Log in button [[ChromeDriver: chrome on WINDOWS (9356d5503b2dd3f6b76487776fc9c558)] -> xpath: //input[@name='commit']]
+2020-04-29 18:04:850 INFO  MyAccountPage :26 - Verify text: My Courses is displayed on my account page 
+2020-04-29 18:04:444 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 18:04:413 INFO  HomePage :32 -  Click on login link: [[ChromeDriver: chrome on WINDOWS (eb0e45738970d649ea2d69841004e307)] -> link text: Login]
+2020-04-29 18:04:266 INFO  LoginPage :27 -  Enter email: xyz13@gmail.com to the filed [[ChromeDriver: chrome on WINDOWS (eb0e45738970d649ea2d69841004e307)] -> xpath: //input[@id='user_email']]
+2020-04-29 18:04:607 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (eb0e45738970d649ea2d69841004e307)] -> xpath: //input[@id='user_password']]
+2020-04-29 18:04:482 INFO  LoginPage :39 -  Clicking on Log in button Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 18:04:719 INFO  MyAccountPage :32 -  Click on the avatar image [[ChromeDriver: chrome on WINDOWS (eb0e45738970d649ea2d69841004e307)] -> xpath: //img[@class='gravatar']]
+2020-04-29 18:04:193 INFO  MyAccountPage :38 -  Click on logout Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log Out')]'
+2020-04-29 18:04:365 INFO  HomePage :38 -  Verify text: Login is displayed on home page [[ChromeDriver: chrome on WINDOWS (eb0e45738970d649ea2d69841004e307)] -> link text: Login]
+2020-04-29 18:04:881 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 18:04:90 INFO  HomePage :44 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (ffe720c5d352fa4231ae64227c6fd61a)] -> link text: Sign Up]
+2020-04-29 18:04:471 INFO  SignUpPage :40 -  Verify text: Sign Up to Let's Kode It is displayed on the sign up page [[ChromeDriver: chrome on WINDOWS (ffe720c5d352fa4231ae64227c6fd61a)] -> xpath: //h1]
+2020-04-29 18:04:671 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 18:04:482 INFO  HomePage :44 -  Click on sign up button: [[ChromeDriver: chrome on WINDOWS (bc4cf6d7b71eb70633e76c8e2e4489ef)] -> link text: Sign Up]
+2020-04-29 18:04:280 INFO  SignUpPage :46 - enter full name Prime Testingto the filed[[ChromeDriver: chrome on WINDOWS (bc4cf6d7b71eb70633e76c8e2e4489ef)] -> xpath: //input[@id='user_name']]
+2020-04-29 18:04:399 INFO  SignUpPage :59 -  Enter email: xyzrl@gmail.com to the field [[ChromeDriver: chrome on WINDOWS (bc4cf6d7b71eb70633e76c8e2e4489ef)] -> xpath: //input[@id='user_email']]
+2020-04-29 18:04:607 INFO  LoginPage :33 -  Enter password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (bc4cf6d7b71eb70633e76c8e2e4489ef)] -> xpath: //input[@id='user_password']]
+2020-04-29 18:04:830 INFO  SignUpPage :71 -  Enter confirm password: abc123 to the field [[ChromeDriver: chrome on WINDOWS (bc4cf6d7b71eb70633e76c8e2e4489ef)] -> xpath: //input[@id='user_password_confirmation']]
+2020-04-29 18:04:997 INFO  SignUpPage :77 -  Select the checkbox for terms and condition [[ChromeDriver: chrome on WINDOWS (bc4cf6d7b71eb70633e76c8e2e4489ef)] -> xpath: //input[@id='user_agreed_to_terms']]
+2020-04-29 18:04:860 INFO  SignUpPage :83 -  Click on sign up button Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2020-04-29 18:04:994 INFO  MyAccountPage :26 - Verify text: My Courses is displayed on my account page 

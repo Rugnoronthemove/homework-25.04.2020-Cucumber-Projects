@@ -19,7 +19,7 @@ public class CukeTest {
     public static void setup() {
         String projectPath = System.getProperty("user.dir");
         //generates Extent report in the given path
-        String reportConfigPath = projectPath + "/src/test/java/com/demo/nopcommerce/resources/propertiesfile/log4j.properties";
+        String reportConfigPath = projectPath + "/src/test/java/com/demo/nopcommerce/resources/extentreport/extent-config.xml";
         //using the Reporter from cucumber.Listener
         Reporter.loadXMLConfig(reportConfigPath);
         //The below code generates details of environment information

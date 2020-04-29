@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c664284-96d7-4ad6-bc1a-1539d3936690" name="Default Changelist" comment="" />
+    <list default="true" id="9c664284-96d7-4ad6-bc1a-1539d3936690" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../barclays-cucumber-project/barclays-cucumber-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../expedia-cucumber-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orangehrm-cucumber-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xyzbank-cucumber-project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/CukeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/CukeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/stepdefs/FlightsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/stepdefs/FlightSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/stepdefs/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/cucumber/stepdefs/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/resources/extentreport/extent-report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../expedia-cucumber-project/src/test/java/uk/co/expedia/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uk/gov/harrow/utility/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/gov/harrow/utility/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/uk/gov/harrow/cucumber/stepdefs/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/uk/gov/harrow/cucumber/stepdefs/HarrowSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/src/test/java/com/demo/nopcommerce/cucumber/CukeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/src/test/java/com/demo/nopcommerce/cucumber/CukeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/src/test/java/com/demo/nopcommerce/cucumber/stepdefs/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/src/test/java/com/demo/nopcommerce/cucumber/stepdefs/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/src/test/java/com/demo/nopcommerce/cucumber/stepdefs/RegisterSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/src/test/java/com/demo/nopcommerce/cucumber/stepdefs/RegistrationSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/src/test/java/com/demo/nopcommerce/resources/extentreport/extent-report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nopcommercedemo-cucumber-project/src/test/java/com/demo/nopcommerce/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orangehrm-cucumber-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../orangehrm-cucumber-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orangehrm-cucumber-project/src/test/java/com/orangehrmlive/demo/cucumber/CukeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../orangehrm-cucumber-project/src/test/java/com/orangehrmlive/demo/cucumber/CukeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orangehrm-cucumber-project/src/test/java/com/orangehrmlive/demo/cucumber/stepdefs/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../orangehrm-cucumber-project/src/test/java/com/orangehrmlive/demo/cucumber/stepdefs/LoginLogoutSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../orangehrm-cucumber-project/src/test/java/com/orangehrmlive/demo/resources/extentreport/extent-report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../orangehrm-cucumber-project/src/test/java/com/orangehrmlive/demo/resources/extentreport/extent-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyzbank-cucumber-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xyzbank-cucumber-project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyzbank-cucumber-project/src/test/java/com/bank/cucumber/CukeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xyzbank-cucumber-project/src/test/java/com/bank/cucumber/CukeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyzbank-cucumber-project/src/test/java/com/bank/cucumber/stepdefs/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xyzbank-cucumber-project/src/test/java/com/bank/cucumber/stepdefs/ManagerSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyzbank-cucumber-project/src/test/java/com/bank/resources/extentreport/extent-report.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xyzbank-cucumber-project/src/test/java/com/bank/resources/extentreport/extent-config.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +53,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1b4Q8wp4scFBu4qVrymf7U28u8X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />

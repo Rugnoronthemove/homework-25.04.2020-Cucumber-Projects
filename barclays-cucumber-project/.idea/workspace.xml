@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6df2535a-8b4f-4231-abf5-4483e05ed78d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bDZhOwDGAbnXSQk60Ibk4LrnQ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../letskodeit-cucumber-project" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\barclays-cucumber-project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CukeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="barclays-cucumber-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.co.barclays.cucumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.co.barclays.cucumber" />
+      <option name="MAIN_CLASS_NAME" value="uk.co.barclays.cucumber.CukeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6df2535a-8b4f-4231-abf5-4483e05ed78d" name="Default Changelist" comment="" />
+      <created>1588168742829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588168742829</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1779" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588173008687">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1779" y="120" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1588173008687" />
+    <state x="1458" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588177442888">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1458" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1588177442888" />
+    <state x="1458" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1588175452263" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1588176820269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1588176820269" />
+    <state width="1323" height="244" key="GridCell.Tab.0.bottom" timestamp="1588178334969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1588178334969" />
+    <state width="1323" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1588175749668" />
+    <state width="1323" height="244" key="GridCell.Tab.0.center" timestamp="1588178334969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1588178334969" />
+    <state width="1323" height="169" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1588175749668" />
+    <state width="1323" height="244" key="GridCell.Tab.0.left" timestamp="1588178334968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1588178334968" />
+    <state width="1323" height="169" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1588175749668" />
+    <state width="1323" height="244" key="GridCell.Tab.0.right" timestamp="1588178334969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="244" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1588178334969" />
+    <state width="1323" height="169" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1588175749668" />
+    <state x="1801" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1588174595611">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1801" y="286" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1588174595611" />
+  </component>
+</project>

@@ -1,0 +1,138 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "comments": [
+          {
+            "line": 5,
+            "value": "#  Scenario: As a user I should navigate to overdraft page successfully"
+          },
+          {
+            "line": 6,
+            "value": "#    Given I am on Home page"
+          },
+          {
+            "line": 7,
+            "value": "#    When  I click on Borrow link"
+          },
+          {
+            "line": 8,
+            "value": "#    And   I click on Overdraft link"
+          },
+          {
+            "line": 9,
+            "value": "#    Then  I can see text \"Overdrafts explained\" on Overdraft page"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 29209813100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "As a user I should be able to find a branch",
+        "description": "",
+        "id": "borrow-\u0026-find-a-branch-feature;as-a-user-i-should-be-able-to-find-a-branch",
+        "after": [
+          {
+            "result": {
+              "duration": 1575901700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 669448400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I am on Home page",
+            "match": {
+              "location": "PremierBankingSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4504656800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on Find a branch",
+            "match": {
+              "location": "PersonalBankingSteps.iClickOnFindABranch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1809575300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter branch name \"Watford\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Watford",
+                  "offset": 21
+                }
+              ],
+              "location": "PersonalBankingSteps.iEnterBranchName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 444968100,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on search button",
+            "match": {
+              "location": "PersonalBankingSteps.iClickOnSearchButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 109873500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I see the result \"Watford WD17 2BT\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Watford WD17 2BT",
+                  "offset": 18
+                }
+              ],
+              "location": "PersonalBankingSteps.iSeeTheResult(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Borrow \u0026 Find a branch Feature",
+    "description": "\r\nAs a user I should navigate to overdraft Page and find branch close to me",
+    "id": "borrow-\u0026-find-a-branch-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/uk/co/barclays/resources/featurefile/personalBanking.feature"
+  }
+]

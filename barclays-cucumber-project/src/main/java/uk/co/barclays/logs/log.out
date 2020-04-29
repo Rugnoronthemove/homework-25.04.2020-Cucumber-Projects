@@ -1,0 +1,66 @@
+2020-04-29 16:04:596 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 16:04:193 INFO  HomePage :26 -  Mouse hovering on borrow link [[ChromeDriver: chrome on WINDOWS (9af6e9cc2c4acf6a68c7b7b8d3c84437)] -> link text: Borrow]
+2020-04-29 16:04:555 INFO  BorrowPage :21 -  Clicking on the overdraft link on Borrow page [[ChromeDriver: chrome on WINDOWS (9af6e9cc2c4acf6a68c7b7b8d3c84437)] -> xpath: //a[contains(text(),'Barclays Overdraft')]]
+2020-04-29 16:04:652 INFO  OverDraftPage :20 -  Verifying the text: Overdrafts explained is displayed on overdraft page [[ChromeDriver: chrome on WINDOWS (9af6e9cc2c4acf6a68c7b7b8d3c84437)] -> xpath: //h1[contains(text(),'Overdrafts explained')]]
+2020-04-29 16:04:957 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 16:04:736 INFO  HomePage :37 -  Clicking on find a branch on Home page [[ChromeDriver: chrome on WINDOWS (2bafac0a8ceafd9f7b1adaf7efe033c7)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 16:04:721 INFO  FindABranchPage :30 -  Entering the branch name: Watford in the search Bar [[ChromeDriver: chrome on WINDOWS (2bafac0a8ceafd9f7b1adaf7efe033c7)] -> id: location]
+2020-04-29 16:04:17 INFO  FindABranchPage :42 -  Clicking on the search button [[ChromeDriver: chrome on WINDOWS (2bafac0a8ceafd9f7b1adaf7efe033c7)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 16:04:491 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 16:04:911 INFO  HomePage :32 -  Clicking on premier link [[ChromeDriver: chrome on WINDOWS (fa091ad79a6072e79d14d16e1d0b6755)] -> xpath: //body/div/div/header/div/nav/ul/li[2]/a[1]]
+2020-04-29 16:04:46 INFO  PremierBankingPage :24 -  Verifying text: Premier Banking is displayed on premier banking page [[ChromeDriver: chrome on WINDOWS (fa091ad79a6072e79d14d16e1d0b6755)] -> xpath: //h1[contains(text(),'Premier Banking')]]
+2020-04-29 16:04:69 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 16:04:657 INFO  HomePage :32 -  Clicking on premier link [[ChromeDriver: chrome on WINDOWS (a2d447193b3a405c087bf1a645cc8bd1)] -> xpath: //body/div/div/header/div/nav/ul/li[2]/a[1]]
+2020-04-29 16:04:815 INFO  PremierBankingPage :30 -  Clicking on spring budget link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Spring Budget 2020')]'
+2020-04-29 16:04:726 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 16:04:504 INFO  HomePage :26 -  Mouse hovering on borrow link [[ChromeDriver: chrome on WINDOWS (2342c5ec750fc12c81a9abd8ae78498c)] -> link text: Borrow]
+2020-04-29 16:04:718 INFO  BorrowPage :21 -  Clicking on the overdraft link on Borrow page [[ChromeDriver: chrome on WINDOWS (2342c5ec750fc12c81a9abd8ae78498c)] -> xpath: //a[contains(text(),'Barclays Overdraft')]]
+2020-04-29 16:04:919 INFO  OverDraftPage :20 -  Verifying the text: Overdrafts explained is displayed on overdraft page [[ChromeDriver: chrome on WINDOWS (2342c5ec750fc12c81a9abd8ae78498c)] -> xpath: //h1[contains(text(),'Overdrafts explained')]]
+2020-04-29 16:04:226 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 16:04:31 INFO  HomePage :37 -  Clicking on find a branch on Home page [[ChromeDriver: chrome on WINDOWS (71a3aac7feb0913a13dea43595adbd48)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 16:04:511 INFO  FindABranchPage :30 -  Entering the branch name: Watford in the search Bar [[ChromeDriver: chrome on WINDOWS (71a3aac7feb0913a13dea43595adbd48)] -> id: location]
+2020-04-29 16:04:701 INFO  FindABranchPage :42 -  Clicking on the search button [[ChromeDriver: chrome on WINDOWS (71a3aac7feb0913a13dea43595adbd48)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 16:04:838 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 16:04:939 INFO  HomePage :32 -  Clicking on premier link [[ChromeDriver: chrome on WINDOWS (bacb1ae08f8acd0cbfe61a904b04739d)] -> xpath: //body/div/div/header/div/nav/ul/li[2]/a[1]]
+2020-04-29 16:04:349 INFO  PremierBankingPage :24 -  Verifying text: Premier Banking is displayed on premier banking page [[ChromeDriver: chrome on WINDOWS (bacb1ae08f8acd0cbfe61a904b04739d)] -> xpath: //h1[contains(text(),'Premier Banking')]]
+2020-04-29 16:04:62 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 16:04:968 INFO  HomePage :32 -  Clicking on premier link [[ChromeDriver: chrome on WINDOWS (41cddf2d3b39893731cea6d3ff042548)] -> xpath: //body/div/div/header/div/nav/ul/li[2]/a[1]]
+2020-04-29 16:04:235 INFO  PremierBankingPage :30 -  Clicking on spring budget link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Spring Budget 2020')]'
+2020-04-29 17:04:57 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 17:04:752 INFO  HomePage :37 -  Clicking on find a branch on Home page [[ChromeDriver: chrome on WINDOWS (c442147039336391fefa5c52e60c941a)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 17:04:833 INFO  FindABranchPage :30 -  Entering the branch name: Ruislip in the search Bar [[ChromeDriver: chrome on WINDOWS (c442147039336391fefa5c52e60c941a)] -> id: location]
+2020-04-29 17:04:362 INFO  FindABranchPage :42 -  Clicking on the search button [[ChromeDriver: chrome on WINDOWS (c442147039336391fefa5c52e60c941a)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 17:04:28 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 17:04:372 INFO  HomePage :37 -  Clicking on find a branch on Home page [[ChromeDriver: chrome on WINDOWS (54bbabdb60d8b1a838b63254ef3cb66e)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 17:04:503 INFO  FindABranchPage :30 -  Entering the branch name: Ruislip in the search Bar [[ChromeDriver: chrome on WINDOWS (54bbabdb60d8b1a838b63254ef3cb66e)] -> id: location]
+2020-04-29 17:04:798 INFO  FindABranchPage :42 -  Clicking on the search button [[ChromeDriver: chrome on WINDOWS (54bbabdb60d8b1a838b63254ef3cb66e)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 17:04:970 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 17:04:339 INFO  HomePage :37 -  Clicking on find a branch on Home page [[ChromeDriver: chrome on WINDOWS (15ac7b5ccb882cff3e1187d5de649d45)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 17:04:169 INFO  FindABranchPage :30 -  Entering the branch name: Ruislip in the search Bar [[ChromeDriver: chrome on WINDOWS (15ac7b5ccb882cff3e1187d5de649d45)] -> id: location]
+2020-04-29 17:04:585 INFO  FindABranchPage :43 -  Clicking on the search button [[ChromeDriver: chrome on WINDOWS (15ac7b5ccb882cff3e1187d5de649d45)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 17:04:937 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 17:04:985 INFO  HomePage :37 -  Clicking on find a branch on Home page [[ChromeDriver: chrome on WINDOWS (591238444678fed0f8f6f64f6128d4de)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 17:04:594 INFO  FindABranchPage :30 -  Entering the branch name: Watford in the search Bar [[ChromeDriver: chrome on WINDOWS (591238444678fed0f8f6f64f6128d4de)] -> id: location]
+2020-04-29 17:04:846 INFO  FindABranchPage :43 -  Clicking on the search button [[ChromeDriver: chrome on WINDOWS (591238444678fed0f8f6f64f6128d4de)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 17:04:197 INFO  FindABranchPage :37 -  Verifying: Watford WD17 2BT displayed in the search results [[ChromeDriver: chrome on WINDOWS (591238444678fed0f8f6f64f6128d4de)] -> xpath: //span[contains(text(),'Watford')]]
+2020-04-29 17:04:94 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 17:04:433 INFO  HomePage :26 -  Mouse hovering on borrow link [[ChromeDriver: chrome on WINDOWS (1d47b80251a823a0ea12b09b14c277e5)] -> link text: Borrow]
+2020-04-29 17:04:332 INFO  BorrowPage :21 -  Clicking on the overdraft link on Borrow page [[ChromeDriver: chrome on WINDOWS (1d47b80251a823a0ea12b09b14c277e5)] -> xpath: //a[contains(text(),'Barclays Overdraft')]]
+2020-04-29 17:04:600 INFO  OverDraftPage :20 -  Verifying the text: Overdrafts explained is displayed on overdraft page [[ChromeDriver: chrome on WINDOWS (1d47b80251a823a0ea12b09b14c277e5)] -> xpath: //h1[contains(text(),'Overdrafts explained')]]
+2020-04-29 17:04:304 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 17:04:780 INFO  HomePage :37 -  Clicking on find a branch on Home page [[ChromeDriver: chrome on WINDOWS (f47013f6bfe2b790688cf592e67fdaee)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 17:04:923 INFO  FindABranchPage :30 -  Entering the branch name: Watford in the search Bar [[ChromeDriver: chrome on WINDOWS (f47013f6bfe2b790688cf592e67fdaee)] -> id: location]
+2020-04-29 17:04:367 INFO  FindABranchPage :43 -  Clicking on the search button [[ChromeDriver: chrome on WINDOWS (f47013f6bfe2b790688cf592e67fdaee)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 17:04:585 INFO  FindABranchPage :37 -  Verifying: Watford WD17 2BT displayed in the search results [[ChromeDriver: chrome on WINDOWS (f47013f6bfe2b790688cf592e67fdaee)] -> xpath: //span[contains(text(),'Watford')]]
+2020-04-29 17:04:698 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 17:04:648 INFO  HomePage :32 -  Clicking on premier link [[ChromeDriver: chrome on WINDOWS (fc642e5a9a4fe7f0fc99a399914b1091)] -> xpath: //body/div/div/header/div/nav/ul/li[2]/a[1]]
+2020-04-29 17:04:850 INFO  PremierBankingPage :24 -  Verifying text: Premier Banking is displayed on premier banking page [[ChromeDriver: chrome on WINDOWS (fc642e5a9a4fe7f0fc99a399914b1091)] -> xpath: //h1[contains(text(),'Premier Banking')]]
+2020-04-29 17:04:31 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 17:04:940 INFO  HomePage :32 -  Clicking on premier link [[ChromeDriver: chrome on WINDOWS (3b9cbabbc3896808575a388f10f0d380)] -> xpath: //body/div/div/header/div/nav/ul/li[2]/a[1]]
+2020-04-29 17:04:339 INFO  PremierBankingPage :30 -  Clicking on spring budget link Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Spring Budget 2020')]'
+2020-04-29 17:04:539 INFO  SpringBudgetPage :20 -  Verifying the text: Spring Budget 2020 is displayed on spring budget page [[ChromeDriver: chrome on WINDOWS (3b9cbabbc3896808575a388f10f0d380)] -> xpath: //h2[contains(text(),'Spring Budget 2020')]]
+2020-04-29 17:04:101 INFO  BrowserSelector :21 - Chrome Browser Selected
+2020-04-29 17:04:99 INFO  HomePage :37 -  Clicking on find a branch on Home page [[ChromeDriver: chrome on WINDOWS (dd19f7bc7a397a3f0547da96f438d38b)] -> xpath: //span[contains(text(),'Find a branch')]]
+2020-04-29 17:04:918 INFO  FindABranchPage :30 -  Entering the branch name: Watford in the search Bar [[ChromeDriver: chrome on WINDOWS (dd19f7bc7a397a3f0547da96f438d38b)] -> id: location]
+2020-04-29 17:04:368 INFO  FindABranchPage :43 -  Clicking on the search button [[ChromeDriver: chrome on WINDOWS (dd19f7bc7a397a3f0547da96f438d38b)] -> xpath: //div[@id='search-area']//div[2]//div[1]//input[1]]
+2020-04-29 17:04:486 INFO  FindABranchPage :37 -  Verifying: Watford WD17 2BT displayed in the search results [[ChromeDriver: chrome on WINDOWS (dd19f7bc7a397a3f0547da96f438d38b)] -> xpath: //span[contains(text(),'Watford')]]

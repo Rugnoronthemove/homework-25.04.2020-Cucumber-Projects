@@ -1,0 +1,528 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 29311330000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should login to their account successfully",
+        "description": "",
+        "id": "login-feature;user-should-login-to-their-account-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1847279900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3227352000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 482725000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Login link",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8391022400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I enter email \"xyz13@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "xyz13@gmail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "LoginSteps.iEnterEmail(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 192875400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter password \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2209540900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click on log in button",
+            "match": {
+              "location": "LoginSteps.iClickOnLogInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 20962646500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I should see my courses text \"My Courses\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "My Courses",
+                  "offset": 30
+                }
+              ],
+              "location": "LoginSteps.iShouldSeeMyCoursesText(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 18468960100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "User should logout of their account successfully",
+        "description": "",
+        "id": "login-feature;user-should-logout-of-their-account-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1369232300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 745400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 228007600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on Login link",
+            "match": {
+              "location": "LoginSteps.iClickOnLoginLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4849791200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I enter email \"xyz13@gmail.com\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "xyz13@gmail.com",
+                  "offset": 15
+                }
+              ],
+              "location": "LoginSteps.iEnterEmail(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 337212400,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I enter password \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 17873456300,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I click on log in button",
+            "match": {
+              "location": "LoginSteps.iClickOnLogInButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 231858100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I click on the avatar link",
+            "match": {
+              "location": "LoginSteps.iClickOnTheAvatarLink()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 13471534500,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on log out button",
+            "match": {
+              "location": "LoginSteps.iClickOnLogOutButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 161634200,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I should see login text \"Login\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Login",
+                  "offset": 25
+                }
+              ],
+              "location": "LoginSteps.iShouldSeeLoginText(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Login Feature",
+    "description": "\r\nAs a user I want to Login and Logout",
+    "id": "login-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/letskodeit/learn/resources/featurefile/login.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 16096612700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User should navigate to sign up page successfully",
+        "description": "",
+        "id": "sign-up-feature;user-should-navigate-to-sign-up-page-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1382282500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 627700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 245192300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Sign up link",
+            "match": {
+              "location": "SignUpSteps.iClickOnSignUpLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4375865200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I should see sign up to lets kode it text \"Sign Up to Let\u0027s Kode It\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Sign Up to Let\u0027s Kode It",
+                  "offset": 43
+                }
+              ],
+              "location": "SignUpSteps.iShouldSeeSignUpToLetsKodeItText(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 15269923300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.openBrowser()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "Verify text when I register a account successfully",
+        "description": "",
+        "id": "sign-up-feature;verify-text-when-i-register-a-account-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1397020300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.closeBrowser(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 728100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I am on Home page",
+            "match": {
+              "location": "LoginSteps.iAmOnHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 338507800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click on Sign up link",
+            "match": {
+              "location": "SignUpSteps.iClickOnSignUpLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3793847200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I enter full name \"Prime Testing\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Prime Testing",
+                  "offset": 19
+                }
+              ],
+              "location": "SignUpSteps.iEnterFullName(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1115760600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I enter a random email address",
+            "match": {
+              "location": "SignUpSteps.iEnterARandomEmailAddress()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 205804600,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I enter password \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 18
+                }
+              ],
+              "location": "LoginSteps.iEnterPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 219413200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I enter confirm password \"abc123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "abc123",
+                  "offset": 26
+                }
+              ],
+              "location": "SignUpSteps.iEnterConfirmPassword(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 164580300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I select the check box for terms and conditions",
+            "match": {
+              "location": "SignUpSteps.iSelectTheCheckBoxForTermsAndConditions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 16861735600,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I click on Sign up button",
+            "match": {
+              "location": "SignUpSteps.iClickOnSignUpButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125130400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I should see my courses text \"My Courses\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "My Courses",
+                  "offset": 30
+                }
+              ],
+              "location": "LoginSteps.iShouldSeeMyCoursesText(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Sign Up Feature",
+    "description": "\r\nAs a user I want to register an account on Lets Kode It website",
+    "id": "sign-up-feature",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/letskodeit/learn/resources/featurefile/signup.feature"
+  }
+]

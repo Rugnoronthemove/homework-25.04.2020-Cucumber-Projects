@@ -21,7 +21,7 @@ public class CukeTest {
     public static void setup() {
         String projectPath = System.getProperty("user.dir");
         //generates Extent report in the given path
-        String reportConfigPath = projectPath + "/src/test/java/uk/co/expedia/resources/extentreport/extent-report.xml";
+        String reportConfigPath = projectPath + "/src/test/java/uk/co/expedia/resources/extentreport/extent-config.xml";
         //using the Reporter from cucumber.Listener
         Reporter.loadXMLConfig(reportConfigPath);
         //The below code generates details of environment information
